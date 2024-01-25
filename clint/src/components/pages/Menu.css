@@ -1,0 +1,25 @@
+.menu_heading{
+    font-weight: bold;
+    color: brown;
+    font-size: 3rem;
+}
+.menu_img{
+        border-radius: 90px;
+}
+.menu_btn{
+   margin: auto;
+   display: flex;
+}
+.menu_link_btn{
+    text-decoration: none;
+    
+
+}
+.menu_link_btn:hover{
+    color: white;
+}
+@media screen and (max-width:320px){
+    .menu_img{
+        margin-left: 12%;
+    }
+}

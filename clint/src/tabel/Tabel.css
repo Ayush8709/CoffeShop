@@ -1,0 +1,41 @@
+.table-heading{
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: deeppink;
+    font-family: cursive;
+}
+.table_offer{
+    padding-top: 20px;
+    color: yellowgreen;
+    font-family: monospace;
+}
+.table_dec{
+    padding-top: 20px;
+    font-weight: 600;
+    color: gray;
+}
+.table_book{
+    
+}
+.table_heading{
+    color: black;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.table_input{
+    display: block;
+    width: 100%;
+    padding: 5%;
+    text-transform: uppercase;
+    margin: 20px;
+    border-radius: 12px;
+    border: none;
+    border-bottom: 5px solid green;
+}
+.table_input:hover{
+    border: 2px solid white;
+}
+.sum{
+    display: flex;
+    margin: auto;
+}

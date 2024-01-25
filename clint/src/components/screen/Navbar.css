@@ -1,0 +1,9 @@
+.nav_img{
+  width: 6vw;
+    height: 13vh;
+    border-radius: 30px;
+}
+.nav_title{
+  font-family: monospace;
+    font-size: 2rem;
+}
